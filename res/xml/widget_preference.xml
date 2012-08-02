@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+		<CheckBoxPreference android:id="@+id/show24hourclock"
+			android:key="show24hourclock" android:title="@string/ttl_24_hour_clock"
+			android:summary="@string/summary_24_hour_clock" android:defaultValue="false">
+		</CheckBoxPreference>
+		<ListPreference
+			android:id="@+id/selecttimezone"
+			android:key="selecttimezone"
+			android:title="@string/ttl_select_timezone"
+		>
+		</ListPreference>
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Variation on the Light theme that turns off the title -->
+    <style name="Theme.Trackr" parent="@android:style/Theme.Light.NoTitleBar">
+    <item name="android:windowBackground">@color/backgroundColor</item>
+    </style>
+</resources>

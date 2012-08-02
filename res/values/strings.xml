@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Timezone Widget</string>
+    <string name="ttl_select_timezone">Select Timezone</string>
+    <string name="summary_select_timezone">Select Timezone</string>
+    <string name="ttl_24_hour_clock">24 Hour Clock</string>
+    <string name="summary_24_hour_clock">Show 24 Hour Clock</string>
+    <string name="ttl_select_background">Background Color</string>
+    <string name="summary_select_background">Select Background Color</string>
+</resources>
